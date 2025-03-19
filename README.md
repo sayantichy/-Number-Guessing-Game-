@@ -30,6 +30,10 @@ Congratulations! You guessed the number in 3 attempts.
 ## 🎥 Demo Video
 [Watch on YouTube](https://youtu.be/1qFmHgc3dfA)
 
+
+https://github.com/user-attachments/assets/98495193-495b-4ed6-bea5-aa83cc754773
+
+
 ## 🤝 Contributing
 Feel free to fork this repository and enhance the game with additional features like:
 
